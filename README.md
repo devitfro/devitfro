@@ -5,10 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devitfro&label=Profile%20views&color=0e75b6&style=flat" alt="devitfro" /> </p>
 
 - 🔭 I’m currently studing **at university.**
-
 - 🌱 And now I'm learning **Microsoft .NET**
-
-- 📫 How to connect with me **potapovaaa.alina@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
