@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devitfro&label=Profile%20views&color=0e75b6&style=flat" alt="devitfro" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devitfro" alt="devitfro" /></a> </p>
-
 - 🔭 I’m currently studing **at university.**
 
 - 🌱 And now I'm learning **the Microsoft .NET Framework**
