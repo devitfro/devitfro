@@ -1,37 +1,37 @@
+<h1 align="center">Alina Potapova</h1>
+<h3 align="center">Frontend Developer | React • React Native • TypeScript</h3>
 
-<h1 align="center">Hi 👋, I'm Alina 👩🏽‍💻✨</h1>
-<h3 align="center">developer from Ukraine</h3>
-<h3 align="center">
-Frontend Developer | JavaScript • TypeScript • React • React Native
-</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devitfro&label=Profile%20views&color=0e75b6&style=flat" alt="devitfro" /> </p>
-
-- 🔭 I’m currently studing **at university.**
-- 🌱 And now I'm learning **Microsoft .NET**
-
-<h3 align="left">Connect with me:</h3>
-<p>Telegram: @AlinaPotapovaaa<p>
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=devitfro&label=Profile%20views&color=0e75b6&style=flat" alt="devitfro" />
 </p>
 
-<h3 align="left">🚀 Tech Stack:</h3>
+- 🎓 Computer Science student  
+- 💻 Interested in building modern web & mobile applications  
 
-### 💻 Languages
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [TypeScript](https://www.typescriptlang.org/docs/)
-- [C++](https://isocpp.org/)
-- [C# (.NET)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+<h3 align="left">📫 Connect with me</h3>
+<p>
+Telegram: <strong>@AlinaPotapovaaa</strong>
+</p>
 
-### ⚙️ Frameworks & Libraries
-- [React](https://react.dev/)
-- [React Native](https://reactnative.dev/)
-- [ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/)
+<h3 align="left">🚀 Tech Stack</h3>
 
-### ☁️ Cloud & DevOps
-- [Amazon Web Services (AWS)](https://aws.amazon.com/)
-- [Docker](https://docs.docker.com/)
+<h4>Languages</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,sql" />
+</p>
 
+<h4>Frameworks & Libraries</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
 
+<h4>Cloud & DevOps</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
+</p>
 
-
+<h4>Tools & Platforms</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,mysql" />
+</p>
