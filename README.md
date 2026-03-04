@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Alina 👩🏽‍💻✨</h1>
-<h3 align="center">FrontEnd developer from Ukraine</h3>
+<h3 align="center">FrontEnd (JavaScript, React, React Native, TypeScript) developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devitfro&label=Profile%20views&color=0e75b6&style=flat" alt="devitfro" /> </p>
 
